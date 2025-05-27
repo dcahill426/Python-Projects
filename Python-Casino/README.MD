@@ -1,5 +1,5 @@
 # Python Casino
-Current work in progress
+*Current work in progress*
 
 Blackjack fully working with expected outcomes. Will look to add front end in future
 Roulette halfway completed, also will look to add front end in future
